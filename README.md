@@ -1,7 +1,7 @@
 # NEWDS
 
 
-this dataset  has been collected by By Arwa Alajlan,Razan Salman,Fatimah Alkubaish and Fai Almuharib
+This  dataset  has been collected by By Arwa Alajlan,Razan Salman,Fatimah Alkubaish and Fai Almuharib
 This is a metadta:
 
 You will find 32001 rows × 2 columns ,this data has been collected from multiple resoucres.
